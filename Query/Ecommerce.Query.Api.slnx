@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../Ecommerce.Entities/Ecommerce.Entities.csproj" />
+  <Project Path="Ecommerce.Query.Api/Ecommerce.Query.Api/Ecommerce.Query.Api.csproj" />
+  <Project Path="Ecommerce.Query.Api/Ecommerce.Query.Core/Ecommerce.Query.Core.csproj" />
+  <Project Path="Ecommerce.Query.Api/Ecommerce.Query.Dto/Ecommerce.Query.Dto.csproj" />
+  <Project Path="Ecommerce.Query.Api/Ecommerce.Query.Services/Ecommerce.Query.Services.csproj" />
+</Solution>
