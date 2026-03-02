@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="CoreKit.Application" Version="10.0.0" />
+    <PackageReference Include="CoreKit.Persistence" Version="10.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="../../../../Ecommerce.Entities/Ecommerce.Entities.csproj" />
+    <ProjectReference Include="../Ecommerce.Command.Dto/Ecommerce.Command.Dto.csproj" />
+  </ItemGroup>
+</Project>
